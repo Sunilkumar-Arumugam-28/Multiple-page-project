@@ -1,0 +1,17 @@
+img{
+    height: 400px;
+    background: black;
+
+}
+
+h1{
+    font-weight: bolder;
+    color: red;
+    background: black;
+    width: fit-content;
+}
+
+#b{
+    background: rgb(141, 203, 231);
+    color: black;
+}

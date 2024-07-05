@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+}
+
+h1{
+    background: black;
+    font: bolder;
+    color: red;
+    width: fit-content;
+}
+
+body{
+    background: rgb(151, 238, 190);
+}

@@ -1,0 +1,19 @@
+img{
+    height: 270px;
+    width: 220px;
+    padding: 45px;
+    margin-top: 70px;
+    border-radius: 65px;
+
+}
+
+h1{
+    font-style: oblique;
+    color: red;
+    background: black;
+    width: fit-content;
+}
+
+#b{
+    background: linear-gradient(90deg,blue,black,skyblue);
+}

@@ -1,0 +1,23 @@
+img{
+    height: 300px;
+    width: 250px;
+    padding: 80px;
+    margin-top: 10px;
+    border-radius: 80px;
+}
+
+h1{
+    color: red;
+    background: black;
+    width: fit-content;
+}
+
+#b1{
+    background: lightsteelblue;
+    
+}
+
+p{
+    margin-top: 0px;
+    font-display: ;
+}
